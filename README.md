@@ -136,7 +136,7 @@ For example:
 
 ## Resources
 
-- [Getting Started](https://ml5js.org/getting-started/)
+- [Getting Started](https://learn.ml5js.org/)
 - [API Reference](https://ml5js.org/reference/)
 - [Examples](https://github.com/ml5js/ml5-library/tree/main/examples)
 - [Community](https://ml5js.org/community)
